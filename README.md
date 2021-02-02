@@ -1,4 +1,4 @@
-# frontend
+# MEVN Frontend
 
 ## Project setup
 ```
